@@ -15,7 +15,7 @@ function Menu() {
           </Link> */}
           <Link to="/trade-prediction">
             <div style={{textDecoration: 'none'}}>
-              <li>Trade Predicting</li>
+              <li>Trade Prediction</li>
             </div>
           </Link>
           {/* <div>
