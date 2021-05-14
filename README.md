@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# Trade Botting Beta Version 1.0 ReadMe Document.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> next version to be released in three weeks time (still in beta mode).
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+### Table of Contents
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Trade Botting, just as the name suggests is a web application that is is programmed help those who have little or no skills in crypto-currency trading maximize their incomes each single day. This is the first release and it still in its beta phase. Trade Botting is still far from perfect. Of course, we know that crypto-currency prices are volitile and cannot be 100% accuratly predicted. With that in mind, please be smart while you trade, even with the assistance of the bot. 
 
-### `npm run build`
+Plans are to develop the bot to accurately predict the market in two major ways. Surface Scan and Deep Scan. Unfortunately, the Deep Scan is not yet ready and will not be initiated into the commit of this version. But we might see it featuring in the later updates.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+SideNote: Please, we hold no account to your loses if there be any and shall not be held responsible for any of such.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+SideNotesInDevAspects: This projects is done as one of my practise in mastering a new technology (React js). So, any feedbacks will indeed be highly appreciated and welcomed. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Technologies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React Js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Back To The Top](#trade-botting-ReadMe)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+## How To Use
+- Choose your coin you wish to predict when you land the dashboard page.
+- Choose the day(s) interval. For now, the bot only supports 24 amd 48 hours of intervals, which are marged together. More intervals coming soon...
+- Choose the currency. United State Dollar and Nigerian Naira currently supported.
+- Hit the proceed button and wait for the data to arrive. Your must be connected to the internet unless there won't be any data.
+- To finally predict, hit the sufface scan and see result.
+- Please, for correct use, always follow up on the bot based on the time you bought your coin and the profit your from maximized from the initial buy.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#### Installation
+No installation needed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+#### API Reference
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+    Api datas of live crypto prices and related items gotten from CoinGecko
+```
+[Back To The Top](#trade-botting-ReadMe)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- ## References
+[Back To The Top](#read-me-template) -->
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## License
 
-### Deployment
+BSD 3-Clause License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Copyright (c) 2021, Collins Rollins 
+All rights reserved.
 
-### `npm run build` fails to minify
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+[Back To The Top](#trade-botting-ReadMe)
+
+---
+
+## Author Info
+
+- Twitter - [@CRollinsTweet](https://twitter.com/CRollinsTweet)
+- Facebook - [Collins Rollins](https://www.facebook.com/collinsrollins.07)
+
+[Back To The Top](#trade-botting-ReadMe)
