@@ -7,9 +7,9 @@ import { loginReducer } from "./reduxEmpire/usersLogin/reducer";
 
 
 export const rootedReducer = combineReducers({
-   statusReducer: statusReducer,
-   updateReducer: updateReducer,
-   historyReducer:historyReducer,
-   selectReducer : selectReducer,
-   loginReducer:loginReducer
+   statusReducer,
+   updateReducer,
+   historyReducer,
+   selectReducer,
+   loginReducer
 })
